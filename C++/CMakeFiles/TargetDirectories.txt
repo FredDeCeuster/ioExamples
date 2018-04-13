@@ -1,0 +1,3 @@
+/home/frederik/Dropbox/GitHub/ioExamples/C++/CMakeFiles/rebuild_cache.dir
+/home/frederik/Dropbox/GitHub/ioExamples/C++/CMakeFiles/ioExample.exe.dir
+/home/frederik/Dropbox/GitHub/ioExamples/C++/CMakeFiles/edit_cache.dir
