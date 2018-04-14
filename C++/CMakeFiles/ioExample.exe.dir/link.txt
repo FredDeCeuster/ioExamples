@@ -1,1 +1,0 @@
-/usr/bin/c++       -rdynamic CMakeFiles/ioExample.exe.dir/ioExample.cpp.o  -o ioExample.exe 
